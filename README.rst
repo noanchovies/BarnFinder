@@ -1,7 +1,10 @@
+
+.. image:: https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2022/11/302.jpg?q=50&fit=crop&w=420&h=260&dpr=1.5
+
+
 # Second Hand Auto/Moto Scanner for OLX
 
-**Note:** Beginner Learning Project focused on web scraping skills and foundational scraping logic
-
+** NOTE Beginner Learning Project focused on web scraping skills and foundational scraping logic
 
 ## Technology Stack
 
