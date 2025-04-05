@@ -1,6 +1,7 @@
-**Note:** This is a learning project demonstrating web scraping skills and currently implements the foundational scraping logic.
+# Second Hand Auto/Moto Scanner for OLX
 
-# AutoScanner - OLX Auto/Moto Scanner
+**Note:** Beginner Learning Project focused on web scraping skills and foundational scraping logic
+
 
 ## Technology Stack
 
