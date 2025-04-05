@@ -1,16 +1,18 @@
-=============
-AutoScannerPT
-=============
+**Note:** This is a learning project demonstrating web scraping skills and currently implements the foundational scraping logic.
 
+# AutoScanner - OLX Auto/Moto Scanner
 
-.. image:: https://github.com/user-attachments/assets/da741963-3c65-41c2-9497-d2452bba1bb7
-# AutoScannerPT - OLX.pt Auto/Moto Scanner
+## Technology Stack
+
+* Python 3.11
+* Selenium
+* WebDriver Manager
+* BeautifulSoup4
+* Pandas
 
 ## Description
 
 This project is an initial iteration of a Python-based web scraper designed to gather data on used car and motorcycle listings from OLX Portugal (OLX.pt). It leverages modern web scraping techniques to navigate search result pages and extract key information about vehicle advertisements.
-
-**Note:** This is a learning project demonstrating web scraping skills and currently implements the foundational scraping logic.
 
 ## Key Features & Approach Highlights
 
@@ -21,13 +23,7 @@ This project is an initial iteration of a Python-based web scraper designed to g
 * **Structured Output:** Organizes scraped data using Pandas DataFrames and saves the results to a CSV file for easy access and further analysis.
 * **Forward-Thinking Design:** Includes analysis of OLX.pt's URL structure, identifying parameters for filtering (price, year, fuel type, etc.) and sorting (price, date). This lays the groundwork for future enhancements allowing highly targeted and efficient scraping runs. Concepts for further optimization, like stopping runs based on previously seen ads, were also explored.
 
-## Technology Stack
 
-* Python 3.11
-* Selenium
-* WebDriver Manager
-* BeautifulSoup4
-* Pandas
 
 ## Challenges & Problem-Solving Showcase
 
